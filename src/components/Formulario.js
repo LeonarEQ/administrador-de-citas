@@ -117,6 +117,8 @@ const Formulario = ({ crearCita }) => {
 	);
 };
 
+// Documentando
+
 Formulario.propTypes = {
 	crearCita: PropTypes.func.isRequired,
 };
